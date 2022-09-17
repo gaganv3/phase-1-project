@@ -1,0 +1,33 @@
+*Project objective:
+
+As a Full Stack Developer, complete the features of the application by planning the development in terms of sprints and then push the source code to the GitHub repository. As this is a prototyped application, the user interaction will be via a command line.
+
+*Project Statement:
+
+Name of project - LockedMe
+Task            - To Develop Prototype Of Application
+
+*Things Required to complete the project:
+
+ 1)Arrays
+ 2)Strings
+ 3)Variables
+ 4)functions
+ 5)Encapsulation
+ 6)Polymorphism
+ 7)OOPS
+ 8)Control structure
+ 9)File handling
+10)Exception Handling
+11)collection
+
+*To Do:
+Develop console based application and in that applicaton menu should be there for user.
+
+*options:
+
+1)Get all files from customers.
+2)Add file/Add entries within file.
+3)delete file.
+4)Search for the file.
+5)Exit.
